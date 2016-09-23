@@ -1,0 +1,6 @@
+percentage,duration,event
+0,1,Downloading
+20,4,Unpacking
+40,3,Installing
+70,2,Configuring User Settings
+100,0,Complete
